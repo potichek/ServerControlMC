@@ -1,5 +1,3 @@
 # ServerControlMC
 
-sadasdasdas
-
 ## Install
