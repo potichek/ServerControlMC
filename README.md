@@ -1,3 +1,3 @@
 # ServerControlMC
 
-## Install
+# Install
