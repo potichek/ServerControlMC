@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServerControlMC.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="pathFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">to </Value>
+    </Setting>
+    <Setting Name="pathTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">from</Value>
+    </Setting>
+    <Setting Name="configName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Config name without path</Value>
+    </Setting>
+    <Setting Name="serverFileJarPathTextBox" Type="System.String" Scope="User">
+      <Value Profile="(Default)">path</Value>
+    </Setting>
+    <Setting Name="fileToRun" Type="System.String" Scope="User">
+      <Value Profile="(Default)">start.bat</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
